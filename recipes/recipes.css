@@ -6,5 +6,12 @@ h3{
     text-decoration: underline;
 }
 img{
-    align-self: center;
+    display: block;
+    margin:0px auto;
+    width: 300px
+}
+figcaption{
+    margin: auto;
+    text-align: center;
+    width:300px
 }
