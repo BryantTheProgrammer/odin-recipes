@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+li{
+    list-style-type:  none;;
+    font-size: larger;
+    padding:5px
+}
+a{
+    text-decoration:none;
+}
+a:checked{
+    color: blue
+}
+a:visited{
+color: blue;
+}
